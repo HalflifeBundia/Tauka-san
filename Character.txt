@@ -1,0 +1,8 @@
+name=“¥‰ÌƒTƒ“-Preview
+image=TRI.bmp
+author=WhosThat
+voice=270HzTriangleWave
+version=0.50-Preview
+Model=RXA-25
+height=170cm
+armorMetal=LunarTitanium
