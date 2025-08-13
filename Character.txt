@@ -1,8 +1,10 @@
-name=“¥‰ÌƒTƒ“-Preview
+name=“¥‰ÌƒTƒ“
 image=TRI.bmp
-author=WhosThat
+author=WhosThat & FishBowl
 voice=270HzTriangleWave
-version=0.50-Preview
-Model=RXA-25
+version=0.50
+Model=RXA-103
 height=170cm
 armorMetal=LunarTitanium
+
+##Character.txt is encoded in Shift JIS##
