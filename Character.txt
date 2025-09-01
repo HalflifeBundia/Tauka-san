@@ -1,8 +1,8 @@
-name=ì•âÃÉTÉì
+name=Ë∏èÊ≠å„Çµ„É≥
 image=TRI.bmp
 author=WhosThat & FishBowl
 voice=270HzTriangleWave
-version=0.50
+version=0.52
 Model=RXA-103
 
-##Character.txt is encoded in Shift JIS##
+##Character.txt is encoded in UTF-8##
