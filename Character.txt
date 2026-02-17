@@ -2,7 +2,7 @@ name=踏歌サン
 image=TRI.bmp
 author=WhosThat & FishBowl
 voice=270HzTriangleWave
-version=0.53
+version=0.54
 Model=RXA-103
 
 ##Character.txt is encoded in UTF-8##
