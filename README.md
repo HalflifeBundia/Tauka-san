@@ -37,10 +37,9 @@
 - [BiliBili](https://space.bilibili.com/521427933?spm_id_from=333.1007.0.0)
 
 
-
 ## 感谢
 
-- **AMD Radeon™ VII** --感谢你一直以来的默默付出，但求你乖一点
+- **AMD Radeon™ VII** --感谢你一直以来的默默付出，祝你在我的展示架上安息
 - **@鱼碗** ----------------立绘画师，喜欢钓鱼，天天摸鱼
 - **足立レイ** -------------**毁了我的一生**
 - **[hifisampler](https://github.com/openhachimi/hifisampler)** ----------拯救了这个项目
