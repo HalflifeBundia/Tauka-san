@@ -37,7 +37,7 @@
 - <3275002613@qq.com>  
 - [github](https://github.com/HalflifeBundia)
 - [BiliBili](https://space.bilibili.com/521427933?spm_id_from=333.1007.0.0)
-如有任何问题，或者有改进音源的建议请速与我联系!
+- 如有任何问题，或者有改进音源的建议请速与我联系!
 
 ## 感谢
 
