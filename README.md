@@ -2,6 +2,8 @@
 
 一个以`三角波`作为元音材料制作的无生物音源，适用于[OpenUtau](https://github.com/stakira/OpenUtau)
 
+该仓库内为工程文件，请在`release`(Github配布页右手边)中的`voicebank`下载已封装音源
+
 ## 音源简介
 
 **中文名:** `踏歌叁`  
@@ -37,10 +39,18 @@
 - [3275002613@qq.com](mailto:3275002613@qq.com)
 - [github](https://github.com/HalflifeBundia)
 - [BiliBili](https://space.bilibili.com/521427933?spm_id_from=333.1007.0.0)
+<<<<<<< HEAD
 
 ## 感谢
 
 - **AMD Radeon™ VII** --感谢你的付出与牺牲，愿你在硬件天堂安息
+=======
+- 如有任何问题，或者有改进音源的建议请速与我联系!
+
+## 感谢
+
+- **AMD Radeon™ VII** --感谢你一直以来的默默付出，祝你在我的展示架上安息
+>>>>>>> 83261fb022256a0f73bbfb7dedbb4fc13d34d0fb
 - **@鱼碗** ----------------立绘画师，喜欢钓鱼，天天摸鱼
 - **足立レイ** -------------**毁了我的一生**
 - **[hifisampler](https://github.com/openhachimi/hifisampler)** ----------拯救了这个项目
@@ -54,4 +64,8 @@
 2025 09 03-v0.53 修复音素缺失问题  
 2025 09 01-v0.52 添加语尾息，统一编码为UTF-8  
 2025 08 13-v0.50 添加立绘，发布配布视频  
+<<<<<<< HEAD
 2025 08 08-v0.50-P 预览版配布
+=======
+2025 08 08-v0.50-P 预览版配布  
+>>>>>>> 83261fb022256a0f73bbfb7dedbb4fc13d34d0fb
