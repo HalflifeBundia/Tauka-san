@@ -19,7 +19,7 @@
 
 ## 更新检查工具
 
-自v0.57以来，音源内内置了更新检查工具`TaukaUpdateChecker.exe`  
+自v0.57以来，音源内置了更新检查工具`TaukaUpdateChecker.exe`  
 启动后即可检查更新
 
 ## 使用规约
