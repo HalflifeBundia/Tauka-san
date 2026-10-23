@@ -16,8 +16,11 @@
 
 推荐使用`JA VCV&CVVC`音素器  
 推荐使用`worldline-R`,`moresampler`,`hifisampler`重采样器  
-强烈推荐与[HIFI-NEURA](https://github.com/xiawow/OpenUtau/)搭配使用
 
+## 更新检查工具
+
+自v0.57以来，音源内内置了更新检查工具`TaukaUpdateChecker.exe`  
+启动后即可检查更新
 
 ## 使用规约
 
@@ -44,14 +47,15 @@
 ## 感谢
 
 - **AMD Radeon™ VII** --感谢你的付出与牺牲，愿你在我的展示架上安息
-- **@鱼碗** ----------------立绘画师，喜欢钓鱼，天天摸鱼
+- **@鱼碗** ----------------立绘画师，喜欢钓鱼
 - **足立レイ** -------------**毁了我的一生**
 - **[hifisampler](https://github.com/openhachimi/hifisampler)** ----------拯救了这个项目
 - **[OpenUtau](https://github.com/stakira/OpenUtau)** -----------害我不浅
-- **[HIFI-NEURA](https://github.com/xiawow/OpenUtau/)** ---------强烈推荐的重采样器
+- **DeepSeek-V4.1-F**----编写了更新检查工具
 
 ## 更新日志
 
+2026 10 24-v0.57 嵌入更新检查工具，修改README   
 2026 07 23-v0.55 VV音素拓展  
 2026 02 17-v0.54 oto修正  
 2025 09 03-v0.53 修复音素缺失问题  
